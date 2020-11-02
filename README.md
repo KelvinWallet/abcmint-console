@@ -9,7 +9,7 @@ page to download the latest version for Windows 10 and macOS.
 
 ## What is it
 
-This is an software wallet implementation for ABCMint, the post-quantum for of
+This is an software wallet implementation for ABCMint, the post-quantum fork of
 Bitcoin that uses Rainbow signature scheme.
 
 This wallet implementation derives your Rainbow private keys from a BIP-39
